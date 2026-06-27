@@ -21,7 +21,7 @@ A lightweight command-line task manager built with Node.js for creating, organiz
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/task-manager-cli.git
+git clone https://github.com/Rammstone/Task_Manager_Cli.git
 ```
 
 Navigate to the project directory:
